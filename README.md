@@ -4,7 +4,6 @@
 
 https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.webp
 <img aligh="right" alt="Coding" widght="400" src="https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.webp">
-
 ---
 
 ### :man_technologist: About Me :
