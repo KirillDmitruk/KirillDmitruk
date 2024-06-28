@@ -1,31 +1,67 @@
-<h1 align="center">Hi there👋, I'm Kirill</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirill
+==============================================================================================================================
 
----
+I'm Python Developer
+--------------------
+- I like developing new algorithms and writing application logic.
+- There are no victories without losses.
+- You Can Achieve Anything If You Focus On ONE Thing.
+- I’m constantly learning new things.
+* 🧠  I'm learning FastAPI and Technical Content Writing.
 
-https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.webp
-<img aligh="right" alt="Coding" widght="400" src="https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.webp">
----
+### Skills
 
-### :man_technologist: About Me :
-<h3 align="center">I'm Backend Developer from Russia</h3>
+<div>
+    <a href="https://www.python.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://docs.pytest.org/en/8.0.x/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+    </a>   
+    <a href="https://redis.io/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+    </a> 
+    <a href="https://www.postgresql.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://ubuntu.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://www.jetbrains.com/ru-ru/pycharm/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+    </a> 
+    <a href="https://www.json.org/json-en.html">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json" alt="Json" width="40" height="40"/>&nbsp;
+    </a>  
+    <a href="https://docs.djangoproject.com/en/5.0/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+    </a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="djangorest" width="40" height="40"/>&nbsp;
+    <a href="https://fastapi.tiangolo.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastAPI" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    </a> 
+                                
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirilldmitruk&label=Profile%20views&color=0e75b6&style=flat" alt="kirilldmitruk" /> </p>
 
-- 🌱 I’m currently learning **FastAPI, asynchronous programming**
+### Socials
 
-- 📫 How to reach me **https://t.me/KirDmitruk**
+<div id="badges" align="left">
+  <a href="https://t.me/KirDmitruk">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://vk.com/dmitruk_k13">
+    <img src="https://img.shields.io/badge/Vkotakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### My GitHub Stats
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirilldmitruk&show_icons=true&locale=en&layout=compact" alt="kirilldmitruk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirilldmitruk&show_icons=true&locale=en" alt="kirilldmitruk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirilldmitruk&" alt="kirilldmitruk" /></p>
+<div id="badges" align="center">
+  <a href="http://www.github.com/KirillDmitruk"><img src="https://github-readme-stats.vercel.app/api?username=KirillDmitruk&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KirillDmitruk's GitHub stats" /></a>
+  <a href="http://www.github.com/KirillDmitruk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KirillDmitruk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/KirillDmitruk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillDmitruk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
