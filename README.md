@@ -7,7 +7,7 @@ I'm Python Developer
 - There are no victories without losses.
 - You Can Achieve Anything If You Focus On ONE Thing.
 - I’m constantly learning new things.
-* 🧠  I'm learning FastAPI and Technical Content Writing.
+* 🧠  I'm learning FastAPI and Technical Content Writing now.
 
 ### Skills
 
