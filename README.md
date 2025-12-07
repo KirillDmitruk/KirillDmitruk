@@ -1,67 +1,106 @@
-Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Кирилл
-==============================================================================================================================
+# 🎛️ Привет! Меня зовут Кирилл  
 
-I'm Python Developer
---------------------
-- I like developing new algorithms and writing application logic.
-- There are no victories without losses.
-- You Can Achieve Anything If You Focus On ONE Thing.
-- I’m constantly learning new things.
-* 🧠  I'm learning FastAPI and Technical Content Writing now.
+👨‍💻 Раньше я занимался **backend-разработкой на Python**: писал сервисы, интеграции, Telegram-ботов и веб-проекты.  
+🤖 Сейчас я **перехожу в робототехнику и мехатронику**, работаю с микроконтроллерами, электрикой, сервоприводами и умными устройствами.
 
-### Skills
+---
 
-<div>
-    <a href="https://www.python.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    </a>
-    <a href="https://docs.pytest.org/en/8.0.x/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-    </a>   
-    <a href="https://redis.io/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-    </a> 
-    <a href="https://www.postgresql.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    </a>
-    <a href="https://ubuntu.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-    </a>
-    <a href="https://www.jetbrains.com/ru-ru/pycharm/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-    </a> 
-    <a href="https://www.json.org/json-en.html">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json" alt="Json" width="40" height="40"/>&nbsp;
-    </a>  
-    <a href="https://docs.djangoproject.com/en/5.0/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-    </a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="djangorest" width="40" height="40"/>&nbsp;
-    <a href="https://fastapi.tiangolo.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastAPI" width="40" height="40"/>&nbsp;
-    </a>
-    <a href="https://www.docker.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    </a> 
-                                
-</div>
+## 💡 Сейчас фокусируюсь на
 
+- ESP32, Arduino, сервоприводах и датчиках  
+- Управлении устройствами по Wi-Fi, BLE, MQTT  
+- Создании умных гаджетов (мехатроника + электроника + прошивки)  
+- PlatformIO и структурировании прошивок  
+- 3D-печати и механических конструкциях  
 
-### Socials
+---
 
-<div id="badges" align="left">
-  <a href="https://t.me/KirDmitruk">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://vk.com/dmitruk_k13">
-    <img src="https://img.shields.io/badge/Vkotakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+## ⚙️ Работаю над
 
-### My GitHub Stats
+### 🟥 **Iron Man Helmet — роботизированный шлем**
+Актуальный проект, который превращаю в showcase по робототехнике:
 
-<div id="badges" align="center">
-  <a href="http://www.github.com/KirillDmitruk"><img src="https://github-readme-stats.vercel.app/api?username=KirillDmitruk&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KirillDmitruk's GitHub stats" /></a>
-  <a href="http://www.github.com/KirillDmitruk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KirillDmitruk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <a href="https://github.com/KirillDmitruk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillDmitruk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+- сервоприводы для механики маски  
+- светодиодные линзы и подсветка  
+- управление через ESP32  
+- планируется: Wi-Fi контроллер, управление жестами и голосом, мобильная панель управления  
+
+---
+
+## 🧪 В планах
+
+- **ESP32 Gesture Controller** — управление жестами (MPU6050 / APDS9960)  
+- **Mecha-Spider** — робот-паук с 8 ногами  
+- **Smart Gauntlet** — перчатка с датчиками и сервами  
+- **MQTT-панель управления** + телеметрия устройств  
+
+---
+
+## 🔍 Практикую
+
+- электронику: сервоприводы, датчики, питание  
+- беспроводную связь: Wi-Fi, MQTT, Web API  
+- механику и сборку корпусов  
+- Python-скрипты для отладки логики устройств  
+- проектирование архитектуры умных систем  
+
+---
+
+## 🎯 Главный фокус
+
+Создание **умных устройств**, которые объединяют электронику, механику и программное обеспечение.
+
+---
+
+# 💼 Портфолио
+
+*(добавлю позже)*
+
+---
+
+# 📬 Контакты
+
+- 🐙 GitHub: [KirillDmitruk](https://github.com/KirillDmitruk)  
+- 💬 Telegram: [@KirDmitruk](https://t.me/KirDmitruk)
+
+---
+
+# 🌱 Навыки
+
+## 🧠 Языки программирования
+| Python | C/C++ | JavaScript |
+|--------|--------|------------|
+| Основной язык, backend и сервисы | Прошивки ESP32/Arduino | Для будущих панелей управления |
+
+---
+
+## 🔧 Микроконтроллеры и электроника
+| ESP32 | Arduino | Сервоприводы | Датчики | 3D-печать |
+|-------|---------|--------------|---------|-----------|
+| Wi-Fi, BLE, IoT | Прототипирование | Механика устройств | MPU6050, HC-SR04, APDS9960 | Корпуса и механика |
+
+---
+
+## ⚙️ Фреймворки и платформы
+| PlatformIO | Arduino Framework | Django / DRF | FastAPI |
+|------------|-------------------|---------------|----------|
+| Основная среда прошивок | Управление железом | прошлый опыт | прошлый опыт |
+
+---
+
+## 🛠 Инструменты
+| Git | Linux | VS Code | PyCharm | Postman |
+|-----|--------|---------|---------|---------|
+
+---
+
+## 🗄 Базы данных
+| PostgreSQL | SQLite | Redis |
+|------------|--------|-------|
+
+---
+
+## 🐳 DevOps / Сервисы
+| Docker | Nginx | GitHub Actions |
+|--------|--------|----------------|
+
