@@ -28,15 +28,11 @@
 
 - **J.A.R.V.I.S.** — персональный AI-ассистент с голосовым управлением  
   > FastAPI, WebSockets, Speech-to-Text, AI, async  
-  🔗 Репозиторий: https://github.com/ТВОЙ_НИК/jarvis
+  🔗 Репозиторий: https://github.com/KirillDmitruk/jarvis_ai
 
 - **RPG Habit System** — система привычек в формате RPG  
   > Django, PostgreSQL, REST API  
   🔗 Репозиторий: https://github.com/ТВОЙ_НИК/rpg-habit-system
-
-- **Telegram Bot Platform** — платформа для ботов и автоматизации  
-  > Aiogram, Redis, Celery  
-  🔗 Репозиторий: https://github.com/ТВОЙ_НИК/telegram-platform
 
 ---
 
