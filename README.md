@@ -72,10 +72,10 @@
 
 ---
 
-## 🧪 Юнит-тестирование
+## 🧪 Тестирование
 
 | Навык | Описание |
 |------|----------|
-| ![pytest](https://img.shields.io/badge/pytest-%E2%9C%94-blue?style=flat) | Написание unit и integration тестов |
+| ![pytest](https://img.shields.io/badge/pytest-%E2%9C%94-blue?style=flat) | Написание и выполнение юнит-тестов с использованием unittest и pytest. |
 | ![API testing](https://img.shields.io/badge/API%20testing-%E2%9C%94-4cbbff?style=flat) | Тестирование REST API |
 | ![CI/CD](https://img.shields.io/badge/CI%2FCD-%E2%9C%94-f5a623?style=flat) | Автотесты в CI пайплайнах |
