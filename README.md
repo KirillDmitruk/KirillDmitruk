@@ -32,7 +32,7 @@
 
 - **RPG Habit System** — система привычек в формате RPG  
   > Django, PostgreSQL, REST API  
-  🔗 Репозиторий: https://github.com/ТВОЙ_НИК/rpg-habit-system
+  🔗 Репозиторий: https://github.com/KirillDmitruk/rpg-habit-system
 
 ---
 
