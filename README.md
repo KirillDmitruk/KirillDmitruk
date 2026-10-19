@@ -1,81 +1,87 @@
-# 👋 Привет! Меня зовут Кирилл  
+<h1 align="center">Привет! Я Кирилл 👋</h1>
 
-Я Python-разработчик. Пишу бэкенд, ботов, сервисы и автоматизацию.  
-Работаю с Django, FastAPI, API-интеграциями и асинхронными системами.
+<p align="center">
+  <strong>Python Backend Developer · AI & Automation · Robotics Enthusiast</strong>
+</p>
 
----
+<p align="center">
+  Разрабатываю backend-сервисы, интеграции и AI-инструменты.<br/>
+  Интересуюсь робототехникой и системами, объединяющими программное обеспечение с реальным миром.
+</p>
 
-## 💡 Сейчас фокусируюсь на
-
-- 🧠 Развиваюсь в **Python Backend**: Django, FastAPI, асинхронность, архитектура  
-- ⚙️ Работаю над:
-  - **J.A.R.V.I.S.** — персональный AI-ассистент с голосовым управлением и логикой задач  
-  - **RPG Habit System** — геймифицированная система привычек с прокачкой персонажа  
-- 🔍 Практикую:
-  - интеграции внешних API  
-  - работу с базами данных  
-  - проектирование архитектуры  
-  - разработку Telegram-ботов  
-  - автоматизацию бизнес-процессов  
-
-- 🎯 Главный фокус: создание полезных сервисов, AI-инструментов и автоматизация рутины
+<p align="center">
+  <a href="https://github.com/KirillDmitruk?tab=repositories">Мои репозитории</a>
+  ·
+  <a href="https://github.com/KirillDmitruk/Nova">NOVA</a>
+  ·
+  <a href="https://github.com/KirillDmitruk/GameMaps">GameMaps</a>
+</p>
 
 ---
 
-## 💼 Портфолио
+### 🚀 Чем занимаюсь
 
-### 🚀 Проекты
+- **Backend:** Django, Django REST Framework, FastAPI, REST API, PostgreSQL, асинхронный Python.
+- **AI & automation:** AI-ассистенты, API-интеграции, Telegram-боты и автоматизация бизнес-процессов.
+- **Engineering:** архитектура сервисов, тестирование с pytest, Docker, GitHub Actions.
+- **Robotics:** изучаю ROS 2 и Gazebo, развиваю проекты на пересечении AI, программирования и робототехники.
 
-- **J.A.R.V.I.S.** — персональный AI-ассистент с голосовым управлением  
-  > FastAPI, WebSockets, Speech-to-Text, AI, async  
-  🔗 Репозиторий: https://github.com/KirillDmitruk/jarvis_ai
+### 🛠️ Технологии
 
-- **RPG Habit System** — система привычек в формате RPG  
-  > Django, PostgreSQL, REST API  
-  🔗 Репозиторий: https://github.com/KirillDmitruk/rpg-habit-system
+**Backend & Python**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-555555?style=flat-square)
+
+**Data & background tasks**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+
+**Tooling & quality**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+
+### 📌 Избранные проекты
+
+#### 🤖 [NOVA — персональный AI-ассистент](https://github.com/KirillDmitruk/Nova)
+
+Развиваю модульного AI-ассистента с веб-интерфейсом и интеграцией языковой модели. В планах — голосовое взаимодействие и управление робототехническими компонентами через ROS 2.
+
+**Направления:** Python · FastAPI · AI · архитектура сервисов · ROS 2 (в развитии)
+
+#### 🗺️ [GameMaps — интерактивные игровые карты](https://github.com/KirillDmitruk/GameMaps)
+
+Проект интерактивных карт с собственной логикой отображения и фильтрации точек интереса. Работаю над картографическими стилями и автоматизированными тестами.
+
+**Технологии:** JavaScript · MapLibre · Vitest
+
+### 💼 Профессиональный опыт
+
+- **1,5+ года коммерческой разработки** на Python.
+- Backend-сервисы, внешние API, интеграции и автоматизация процессов.
+- Работа с базами данных, проектирование и поддержка приложений.
+- Юнит-тесты, тестирование API и запуск проверок в CI.
+
+### 🎯 Сейчас изучаю
+
+- Архитектуру и масштабирование асинхронных backend-систем.
+- AI-агентов, локальные языковые модели и их интеграцию в приложения.
+- **ROS 2 и Gazebo** для симуляции и управления робототехническими системами.
 
 ---
 
-## 👨‍💻 Обо мне
-
-- 1.5+ года коммерческой разработки
-- Опыт разработки backend-сервисов и API
-- Умею проектировать архитектуру с нуля
-- Люблю автоматизацию и AI-инструменты
-- Пишу чистый, поддерживаемый код
-
----
-
-## 💼 Чем могу быть полезен
-
-- Разработка backend-сервисов
-- Создание Telegram-ботов для бизнеса
-- Интеграция AI
-- Автоматизация процессов и CRM
-- Интеграции с внешними API
-- Проектирование архитектуры
-- Поддержка и развитие существующих проектов
-
----
-
-## 🌱 Мои навыки
-
-| Языки | Фреймворки | Инструменты | Базы данных | DevOps | Архитектура |
-|------|-------------|--------------|-------------|--------|--------------|
-| ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python) | ![Django](https://img.shields.io/badge/Django-4.2-green?style=flat&logo=django) | ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat&logo=postgresql) | ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker) | REST API |
-|  | ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green?style=flat&logo=fastapi) | ![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis) | ![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite) | ![Nginx](https://img.shields.io/badge/Nginx-green?style=flat&logo=nginx) | Микросервисы |
-|  | ![Django REST](https://img.shields.io/badge/DRF-red?style=flat&logo=django) | ![Celery](https://img.shields.io/badge/Celery-green?style=flat&logo=celery) |  | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-black?style=flat&logo=github-actions) | Асинхронные системы |
-|  |  | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-blue?style=flat&logo=python) |  |  | Clean Architecture |
-|  |  | ![Alembic](https://img.shields.io/badge/Alembic-blue?style=flat&logo=python) |  |  |  |
-|  |  | ![pytest](https://img.shields.io/badge/pytest-blue?style=flat&logo=pytest) |  |  |  |
-|  |  | ![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=flat&logo=telegram) |  |  |  |
-
----
-
-## 🧪 Тестирование
-
-| Навык | Описание |
-|------|----------|
-| ![pytest](https://img.shields.io/badge/pytest-%E2%9C%94-blue?style=flat) | Написание и выполнение юнит-тестов с использованием unittest и pytest. |
-| ![API testing](https://img.shields.io/badge/API%20testing-%E2%9C%94-4cbbff?style=flat) | Тестирование REST API |
-| ![CI/CD](https://img.shields.io/badge/CI%2FCD-%E2%9C%94-f5a623?style=flat) | Автотесты в CI пайплайнах |
+<p align="center">
+  <strong>Люблю превращать идеи в работающие проекты — от API до интеллектуальных систем.</strong>
+</p>
