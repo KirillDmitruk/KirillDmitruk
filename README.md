@@ -15,6 +15,8 @@
   <a href="https://github.com/KirillDmitruk/Nova">NOVA</a>
   ·
   <a href="https://github.com/KirillDmitruk/GameMaps">GameMaps</a>
+  ·
+  <a href="https://github.com/KirillDmitruk/iron-man-helmet">Iron Man Helmet</a>
 </p>
 
 ---
@@ -66,6 +68,12 @@
 Проект интерактивных карт с собственной логикой отображения и фильтрации точек интереса. Работаю над картографическими стилями и автоматизированными тестами.
 
 **Технологии:** JavaScript · MapLibre · Vitest
+
+#### 🦾 [Iron Man Helmet — роботизированный шлем](https://github.com/KirillDmitruk/iron-man-helmet)
+
+Инженерный проект шлема Железного человека: 3D-печатная конструкция с подвижными элементами, сервоприводами и электроникой. Развиваю проект в направлении симуляции в ROS 2 и Gazebo, а в перспективе — интеграции с AI-ассистентом NOVA.
+
+**Направления:** 3D-моделирование · 3D-печать · сервоприводы · робототехника · ROS 2 / Gazebo (в планах)
 
 ### 💼 Профессиональный опыт
 
