@@ -1,12 +1,12 @@
 <h1 align="center">Привет! Я Кирилл 👋</h1>
 
 <p align="center">
-  <strong>Python Backend Developer · AI-интеграции · Автоматизация</strong>
+  <strong>Python Backend Developer · LLM Integration · AI & Automation</strong>
 </p>
 
 <p align="center">
   Разрабатываю веб-сервисы, API, Telegram-ботов и инструменты автоматизации.<br>
-  Интегрирую языковые модели в приложения и развиваю собственные проекты на стыке программирования и инженерии.
+  Создаю Python-приложения с интеграцией генеративного AI: от подключения LLM API до проверки ответов, обработки ошибок и автоматизации задач.
 </p>
 
 <p align="center">
@@ -22,7 +22,8 @@
 - **Опыт:** более 3 лет разработки на Python — коммерческие задачи и собственные проекты.
 - **Backend:** Django, Django REST Framework, FastAPI, REST API, PostgreSQL, работа с бизнес-логикой и базами данных.
 - **Интеграции и автоматизация:** Telegram-боты, Bitrix24, amoCRM, сторонние API, сценарии обработки заявок и уведомлений.
-- **AI:** интеграция ChatGPT и Gemini через API; работа с ответами моделей, проверкой данных и обработкой ошибок.
+- **AI / LLM Engineering:** практический опыт интеграции OpenAI и Gemini API в Python-сервисы и Telegram-ботов; проектирование взаимодействия с моделями, формирование промптов, обработка и валидация ответов.
+- **Надёжность AI-интеграций:** структурированные ответы (Structured Outputs), таймауты, повторные запросы (retry), ограничения вызовов и логирование — в собственных проектах.
 - **Вне работы:** собственные AI-проекты, электроника и робототехника.
 
 ### 🛠️ Технологии
@@ -31,7 +32,8 @@
 | --- | --- |
 | **Язык и backend** | Python, Django, DRF, FastAPI, REST API |
 | **Данные и задачи** | PostgreSQL, SQLite, Django ORM, Celery |
-| **AI и интеграции** | OpenAI / ChatGPT API, Gemini API, Telegram Bot API, Bitrix24, amoCRM |
+| **AI / LLM** | OpenAI API, Gemini API, LLM-интеграции, промпты, Structured Outputs, валидация ответов |
+| **Автоматизация** | Telegram Bot API, Bitrix24, amoCRM, интеграции внешних сервисов |
 | **Разработка** | Git, Linux, Docker, pytest, GitHub Actions |
 | **Дополнительно** | JavaScript, C++, Arduino / ESP32 |
 
@@ -64,18 +66,19 @@
 - Создание Telegram-ботов, обработка данных, уведомления и интеграции с внешними API.
 - Автоматизация бизнес-процессов, интеграция с **Bitrix24** и **amoCRM**.
 - Работа с **PostgreSQL**, Django ORM и REST API.
-- Интеграция языковых моделей в ботов и прикладные сервисы.
+- Интеграция **LLM (ChatGPT / Gemini)** в ботов и Python-приложения для обработки текстовых запросов и автоматизации сценариев.
+- Разработка AI-функций с учётом формата ответов, проверки данных, обработки ошибок и ограничений внешних API.
 
 ### 📚 Сейчас развиваюсь в
 
 - Архитектуре Python backend-систем и асинхронном программировании.
-- AI-агентах, tool calling и надёжной интеграции LLM в приложения.
+- AI-агентах, tool calling, RAG и оценке качества LLM-приложений.
 - ROS 2 и симуляции робототехнических систем.
 
 ---
 
 <p align="center">
-  <strong>Открыт к предложениям по Python Backend, автоматизации и AI-интеграциям.</strong><br>
+  <strong>Открыт к предложениям по Python Backend, AI Backend и LLM-интеграциям.</strong><br>
   <a href="https://t.me/kir_dmitruk">Написать в Telegram</a> ·
   <a href="mailto:dmitruk.ks@mail.ru">Связаться по email</a>
 </p>
