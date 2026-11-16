@@ -1,95 +1,98 @@
 <h1 align="center">Привет! Я Кирилл 👋</h1>
 
 <p align="center">
-  <strong>Python Backend Developer · AI & Automation · Robotics Enthusiast</strong>
+  <strong>Python Backend Developer · AI-интеграции · Автоматизация</strong>
 </p>
 
 <p align="center">
-  Разрабатываю backend-сервисы, интеграции и AI-инструменты.<br/>
-  Интересуюсь робототехникой и системами, объединяющими программное обеспечение с реальным миром.
+  Разрабатываю веб-сервисы, API, Telegram-ботов и инструменты автоматизации.<br>
+  Интегрирую языковые модели в приложения и развиваю собственные проекты на стыке программирования и инженерии.
 </p>
 
 <p align="center">
-  <a href="https://github.com/KirillDmitruk?tab=repositories">Мои репозитории</a>
-  ·
-  <a href="https://github.com/KirillDmitruk/Nova">NOVA</a>
-  ·
-  <a href="https://github.com/KirillDmitruk/GameMaps">GameMaps</a>
-  ·
-  <a href="https://github.com/KirillDmitruk/iron-man-helmet">Iron Man Helmet</a>
+  <a href="https://t.me/kir_dmitruk">Telegram</a> ·
+  <a href="mailto:dmitruk.ks@mail.ru">Email</a> ·
+  <a href="https://github.com/KirillDmitruk?tab=repositories">Все проекты</a>
 </p>
 
 ---
 
-### 🚀 Чем занимаюсь
+### 👨‍💻 Обо мне
 
-- **Backend:** Django, Django REST Framework, FastAPI, REST API, PostgreSQL, асинхронный Python.
-- **AI & automation:** AI-ассистенты, API-интеграции, Telegram-боты и автоматизация бизнес-процессов.
-- **Engineering:** архитектура сервисов, тестирование с pytest, Docker, GitHub Actions.
-- **Robotics:** изучаю ROS 2 и Gazebo, развиваю проекты на пересечении AI, программирования и робототехники.
+- **Коммерческий опыт:** Python-разработчик в **Oscar Studio** (июль 2024 — декабрь 2025).
+- **Backend:** Django, Django REST Framework, FastAPI, REST API, PostgreSQL, работа с бизнес-логикой и базами данных.
+- **Интеграции и автоматизация:** Telegram-боты, Bitrix24, amoCRM, сторонние API, сценарии обработки заявок и уведомлений.
+- **AI:** интеграция ChatGPT и Gemini через API; работа с ответами моделей, проверкой данных и обработкой ошибок.
+- **Вне работы:** собственные AI-проекты, интерактивные карты, электроника и робототехника.
 
 ### 🛠️ Технологии
 
-**Backend & Python**
+| Направление | Инструменты |
+| --- | --- |
+| **Язык и backend** | Python, Django, DRF, FastAPI, REST API |
+| **Данные и задачи** | PostgreSQL, SQLite, Django ORM, Celery |
+| **AI и интеграции** | OpenAI / ChatGPT API, Gemini API, Telegram Bot API, Bitrix24, amoCRM |
+| **Разработка** | Git, Linux, Docker, pytest, GitHub Actions |
+| **Дополнительно** | JavaScript, C++, Arduino / ESP32 |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-555555?style=flat-square)
-
-**Data & background tasks**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
-
-**Tooling & quality**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-
-### 📌 Избранные проекты
+### 🚀 Избранные проекты
 
 #### 🤖 [NOVA — персональный AI-ассистент](https://github.com/KirillDmitruk/Nova)
 
-Развиваю модульного AI-ассистента с веб-интерфейсом и интеграцией языковой модели. В планах — голосовое взаимодействие и управление робототехническими компонентами через ROS 2.
+Собственный AI-ассистент на Python. В опубликованной версии реализованы консольный интерфейс с Gemini, конфигурация через переменные окружения, логирование и обработка ошибок API. Развиваю проект в сторону модульной архитектуры, памяти, инструментов и голосового взаимодействия.
 
-**Направления:** Python · FastAPI · AI · архитектура сервисов · ROS 2 (в развитии)
+**Стек:** Python · Gemini API · Google Gen AI SDK · Rich · uv
+
+#### 🎮 [AI Play in Games — языковая модель управляет игрой](https://github.com/KirillDmitruk/AI-play-in-games)
+
+Эксперимент, в котором Gemini управляет игрой Snake через API: получает состояние поля и возвращает решения. Реализованы структурированные ответы, валидация действий, таймауты, повторные запросы, ограничения и статистика.
+
+**Стек:** Python · Pygame · Gemini API
+
+#### 📧 [Mailing Service — сервис почтовых рассылок](https://github.com/KirillDmitruk/Mailing-Service)
+
+Django-приложение для создания и планирования рассылок: регистрация, подтверждение почты, управление получателями и разграничение прав пользователей.
+
+**Стек:** Python · Django · PostgreSQL · APScheduler
+
+#### ✅ [Task Tracker — управление задачами](https://github.com/KirillDmitruk/Task-tracker)
+
+Веб-приложение для назначения задач сотрудникам и отслеживания выполнения.
+
+**Направления:** Python · Django · Docker
 
 #### 🗺️ [GameMaps — интерактивные игровые карты](https://github.com/KirillDmitruk/GameMaps)
 
-Проект интерактивных карт с собственной логикой отображения и фильтрации точек интереса. Работаю над картографическими стилями и автоматизированными тестами.
+Карты с отображением и фильтрацией точек интереса, собственной логикой категорий и интерфейсом работы с картой.
 
-**Технологии:** JavaScript · MapLibre · Vitest
+**Стек:** JavaScript · MapLibre
 
-#### 🦾 [Iron Man Helmet — роботизированный шлем](https://github.com/KirillDmitruk/iron-man-helmet)
+#### 🦾 [Iron Man Helmet — инженерный проект](https://github.com/KirillDmitruk/iron-man-helmet)
 
-Инженерный проект шлема Железного человека: 3D-печатная конструкция с подвижными элементами, сервоприводами и электроникой. Развиваю проект в направлении симуляции в ROS 2 и Gazebo, а в перспективе — интеграции с AI-ассистентом NOVA.
+Проект электронно-механического шлема: сервоприводы, подсветка, микроконтроллеры и 3D-печатные компоненты. Изучаю возможности ROS 2 и Gazebo для дальнейшего развития проекта.
 
-**Направления:** 3D-моделирование · 3D-печать · сервоприводы · робототехника · ROS 2 / Gazebo (в планах)
+**Направления:** C++ · Arduino · электроника · 3D-печать
 
-### 💼 Профессиональный опыт
+### 💼 Опыт
 
-- **1,5+ года коммерческой разработки** на Python.
-- Backend-сервисы, внешние API, интеграции и автоматизация процессов.
-- Работа с базами данных, проектирование и поддержка приложений.
-- Юнит-тесты, тестирование API и запуск проверок в CI.
+**Oscar Studio — Python-разработчик** · июль 2024 — декабрь 2025
 
-### 🎯 Сейчас изучаю
+- Разработка и поддержка веб-приложений на Django.
+- Telegram-боты, уведомления, обработка данных и интеграции с внешними сервисами.
+- Автоматизация процессов через **Bitrix24** и **amoCRM**.
+- Работа с **PostgreSQL**, Django ORM и REST API.
+- Интеграция функций на базе языковых моделей в ботов и сервисы.
 
-- Архитектуру и масштабирование асинхронных backend-систем.
-- AI-агентов, локальные языковые модели и их интеграцию в приложения.
-- **ROS 2 и Gazebo** для симуляции и управления робототехническими системами.
+### 📚 Сейчас развиваюсь в
+
+- Архитектуре Python backend-систем и асинхронном программировании.
+- AI-агентах, tool calling и надёжной интеграции LLM в приложения.
+- ROS 2 и симуляции робототехнических систем.
 
 ---
 
 <p align="center">
-  <strong>Люблю превращать идеи в работающие проекты — от API до интеллектуальных систем.</strong>
+  <strong>Открыт к предложениям по Python Backend, автоматизации и AI-интеграциям.</strong><br>
+  <a href="https://t.me/kir_dmitruk">Написать в Telegram</a> ·
+  <a href="mailto:dmitruk.ks@mail.ru">Связаться по email</a>
 </p>
